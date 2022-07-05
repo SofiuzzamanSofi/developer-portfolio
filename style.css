@@ -1,12 +1,27 @@
-*{
+* {
     background-color: rgb(138, 171, 199);
 }
-body{
+
+body {
     font-family: 'Palanquin Dark', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 48px;
 }
-.orange-color{
+
+.orange-color {
     color: rgb(4, 209, 236);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
 }

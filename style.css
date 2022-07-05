@@ -1,3 +1,9 @@
 *{
     background-color: rgb(138, 171, 199);
 }
+body{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+h1{
+    font-size: 48px;
+}

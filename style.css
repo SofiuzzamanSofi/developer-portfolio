@@ -50,5 +50,38 @@ h1 {
 }
 
 .second-para {
+    /* jhongkar vai dai nai ami nija nja disi */
     width: 75%;
+}
+
+
+
+h2 {
+    font-size: 32px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    padding-left: 65px;
+    border-radius: 15px;
+    width: 44%;
+    margin: 3%;
+    box-shadow: 10px 15px 30px black;
+}
+
+#laste-colorigez {
+    border-left: 8px solid gray;
+}
+
+#laste-colorigez2 {
+    border-left: 8px solid rgb(160, 8, 8);
+}
+
+footer p {
+    text-align: center;
 }

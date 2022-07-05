@@ -1,9 +1,10 @@
-* {
+/* * {
     background-color: rgb(138, 171, 199);
-}
+} */
 
 body {
     font-family: 'Palanquin Dark', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -25,4 +26,18 @@ section {
 
 .half-width img {
     width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(175, 146, 146), tomato);
+    color: rgb(4, 209, 236);
+    font-weight: 700;
+    padding: 10px 60px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
